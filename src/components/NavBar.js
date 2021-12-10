@@ -92,7 +92,7 @@ const NavBar = () => {
                       target="_blank"
                       rel="noopener"
                     >
-                      <strong>{`Dharmendra`}</strong>
+                      <strong>{` :Dharmendra`}</strong>
                     </Link>
                   </Typography>
                 )}
