@@ -1,3 +1,3 @@
-const backendUrl = 'https://stack-underflow1.herokuapp.com';
+const backendUrl = 'https://stackuflow.herokuapp.com';
 
 export default backendUrl;
