@@ -85,7 +85,7 @@ const NavBar = () => {
                   <Typography variant="caption" color="secondary">
                     | Quetions ?{''}
                     <FavoriteIcon style={{ fontSize: 10, color: '#f4649f' }} />{' '}
-                    by
+                    
                     <Link
                       href={''}
                       color="inherit"
