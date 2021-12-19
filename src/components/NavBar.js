@@ -83,7 +83,7 @@ const NavBar = () => {
                 )}
                 {!isMobile && (
                   <Typography variant="caption" color="secondary">
-                    | Made with{''}
+                    | Quetions ?{''}
                     <FavoriteIcon style={{ fontSize: 10, color: '#f4649f' }} />{' '}
                     by
                     <Link
@@ -92,7 +92,7 @@ const NavBar = () => {
                       target="_blank"
                       rel="noopener"
                     >
-                      <strong>{` :Dharmendra`}</strong>
+                      <strong>{``}</strong>
                     </Link>
                   </Typography>
                 )}
